@@ -1,0 +1,143 @@
+main{
+    background: black;
+}
+h3{
+    position: absolute;
+    width: 132px;
+    height: 36px;
+    left: 121px;
+    top: 321px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+
+}
+.box1{
+    background: #262626;
+    width: 333px;
+    height: 1075px;
+    top: 19px;
+    left: 21px;
+    border-radius: 50px;
+}
+h1{
+    position: absolute;
+    width: 231px;
+    height: 36px;
+    top: 75px;
+    left: 150px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
+.box2{
+    box-sizing: border-box;
+    position:absolute;
+    width: 1323px;
+    height: 588px;
+    left: 360px;
+    top: 19px;
+    background:  #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    color: white;
+}
+img{
+    box-sizing: border-box;
+    position:absolute;
+    width: 222px;
+    height: 222px;
+    left: 76px;
+    top: 75px;
+    border: 2px solid #333333;
+    border-radius: 1000px;
+}
+p{
+    position: absolute;
+    width: 472px;
+    height: 430px;
+    left: 150px;
+    top: 146px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.image2{
+    width: 600px;
+    height: 430px;
+    top: 146px;
+    left: 700px;
+    border-radius: 20px;
+    position: absolute;
+    background: url(image2.png);
+}
+#botton1{
+    position: absolute;
+    width: 298px;
+    height: 61px;
+    left: 38px;
+    top: 430px;
+    background: #111111;
+    border-radius: 30px;
+    color: white;
+}
+#botton2{
+    position: absolute;
+    width: 298px;
+    height: 61px;
+    left: 38px;
+    top: 515px;
+    background: #111111;
+    border-radius: 30px;
+    color: white;
+}
+#botton3{
+    position: absolute;
+    width: 298px;
+    height: 61px;
+    left: 38px;
+    top: 599px;
+    background: #111111;
+    border-radius: 30px;
+    color: white;
+}
+h5{
+    position: absolute;
+    width: 199px;
+    height: 43px;
+    left: 427px;
+    top: 673px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
+.box3{
+    box-sizing: border-box;
+    position:absolute;
+    width: 1323px;
+    height: 464px;
+    left: 371px;
+    top: 636px;
+    background:  #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    color: white;
+}
+article{
+
+}
+td{
+    color: white;
+}
